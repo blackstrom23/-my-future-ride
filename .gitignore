@@ -1,0 +1,8 @@
+# Effect House cache
+Library/
+Temp/
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
